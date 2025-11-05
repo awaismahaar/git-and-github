@@ -14,3 +14,6 @@ body{
 h1{
     font-size: 44px;
 }
+ul{
+    list-style-type: none;
+}
